@@ -1,0 +1,1 @@
+data class OpCode(val ip: Int, val code: Byte, val operands: List<Byte>)
